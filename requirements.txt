@@ -5,4 +5,5 @@ numpy==1.18.1
 osmnx==0.11.4
 shapely==1.7.0
 owslib==0.19.1
+appmode==0.7.0
 
