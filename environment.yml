@@ -10,6 +10,6 @@ dependencies:
   - owslib==0.19.1
   - appmode==0.7.0
   - mercantile==1.1.5
-  - rasterio==1.1.8
+  - rasterio==1.1.7
   - affine==2.3.0
 
