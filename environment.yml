@@ -12,4 +12,5 @@ dependencies:
   - mercantile==1.1.6
   - rasterio==1.1.7
   - affine==2.3.0
+  - scipy==1.5.3
 
