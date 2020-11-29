@@ -5,12 +5,12 @@ dependencies:
   - pyproj==3.0.0.post1
   - matplotlib==3.3.2
   - numpy==1.19.2
-  - osmnx==0.16.1
+  - osmnx==0.16.2
   - shapely==1.7.1
   - owslib==0.19.1
   - appmode==0.8.0
   - mercantile==1.1.6
-  - rasterio==1.1.7
+  - rasterio==1.1.8
   - affine==2.3.0
   - scipy==1.5.2
   - requests==2.25.0
